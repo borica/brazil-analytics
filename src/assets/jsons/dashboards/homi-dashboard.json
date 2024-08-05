@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "title": "Número de homicídios (ano)",
+      "assetData": "assets/jsons/data/homic/homic-niv-brasil.json",
+      "colSize": 4,
+      "componentName": "LineChart"
+    },
+    {
+      "title": "Número de homicídios do sexo feminino (ano)",
+      "assetData": "assets/jsons/data/homicf/homicf-niv-brasil.json",
+      "colSize": 4,
+      "componentName": "LineChart"
+    },
+    {
+      "title": "Número de homicídios do sexo masculino (ano)",
+      "assetData": "assets/jsons/data/homicm/homicm-niv-brasil.json",
+      "colSize": 4,
+      "componentName": "LineChart"
+    }
+  ],
+  [
+    {
+      "title": "Número de homicídios de jovens de 15 a 29 anos (ano)",
+      "assetData": "assets/jsons/data/homicj/homicj-niv-brasil.json",
+      "colSize": 4,
+      "componentName": "LineChart"
+    },
+    {
+      "title": "Número de homicídios de jovens de 15 a 29 anos do sexo feminino (ano)",
+      "assetData": "assets/jsons/data/homicfj/homicfj-niv-brasil.json",
+      "colSize": 4,
+      "componentName": "LineChart"
+    },
+    {
+      "title": "Número de homicídios de jovens de 15 a 29 anos do sexo masculino (ano)",
+      "assetData": "assets/jsons/data/homicmj/homicmj-niv-brasil.json",
+      "colSize": 4,
+      "componentName": "LineChart"
+    }
+  ]
+]
