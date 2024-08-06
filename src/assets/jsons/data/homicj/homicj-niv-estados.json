@@ -1,0 +1,110 @@
+[
+  {
+    "label": "ACRE",
+    "value": 611.0
+  },
+  {
+    "label": "RORAIMA",
+    "value": 647.0
+  },
+  {
+    "label": "MATO GROSSO",
+    "value": 2916.0
+  },
+  {
+    "label": "PIAUI",
+    "value": 1298.0
+  },
+  {
+    "label": "RIO GRANDE DO NORTE",
+    "value": 1917.0
+  },
+  {
+    "label": "MARANHAO",
+    "value": 2786.0
+  },
+  {
+    "label": "RONDONIA",
+    "value": 1765.0
+  },
+  {
+    "label": "SERGIPE",
+    "value": 1450.0
+  },
+  {
+    "label": "DISTRITO FEDERAL",
+    "value": 2162.0
+  },
+  {
+    "label": "MATO GROSSO DO SUL",
+    "value": 2458.0
+  },
+  {
+    "label": "AMAZONAS",
+    "value": 2331.0
+  },
+  {
+    "label": "SANTA CATARINA",
+    "value": 3035.0
+  },
+  {
+    "label": "PARA",
+    "value": 5315.0
+  },
+  {
+    "label": "ALAGOAS",
+    "value": 3251.0
+  },
+  {
+    "label": "CEARA",
+    "value": 5935.0
+  },
+  {
+    "label": "PARAIBA",
+    "value": 2842.0
+  },
+  {
+    "label": "ESPIRITO SANTO",
+    "value": 5006.0
+  },
+  {
+    "label": "BAHIA",
+    "value": 9438.0
+  },
+  {
+    "label": "RIO GRANDE DO SUL",
+    "value": 7708.0
+  },
+  {
+    "label": "GOIAS",
+    "value": 5925.0
+  },
+  {
+    "label": "PARANA",
+    "value": 8378.0
+  },
+  {
+    "label": "PERNAMBUCO",
+    "value": 9921.0
+  },
+  {
+    "label": "MINAS GERAIS",
+    "value": 12215.0
+  },
+  {
+    "label": "RIO DE JANEIRO",
+    "value": 16762.0
+  },
+  {
+    "label": "SAO PAULO",
+    "value": 30244.0
+  },
+  {
+    "label": "AMAPA",
+    "value": 503.0
+  },
+  {
+    "label": "TOCANTINS",
+    "value": 909.0
+  }
+]

@@ -2,41 +2,55 @@
   [
     {
       "title": "Número de homicídios (ano)",
-      "assetData": "assets/jsons/data/homic/homic-niv-brasil.json",
-      "colSize": 4,
-      "componentName": "LineChart"
+      "assetData": "assets/jsons/data/homi/homi-niv-brasil.json",
+      "colSize": 6,
+      "componentName": "MultiSeriesChart"
     },
     {
-      "title": "Número de homicídios do sexo feminino (ano)",
-      "assetData": "assets/jsons/data/homicf/homicf-niv-brasil.json",
-      "colSize": 4,
-      "componentName": "LineChart"
-    },
-    {
-      "title": "Número de homicídios do sexo masculino (ano)",
-      "assetData": "assets/jsons/data/homicm/homicm-niv-brasil.json",
-      "colSize": 4,
-      "componentName": "LineChart"
+      "title": "Número de homicídios de jovens de 15 a 29 anos (ano)",
+      "assetData": "assets/jsons/data/homi/homij-niv-brasil.json",
+      "colSize": 6,
+      "componentName": "MultiSeriesChart"
     }
   ],
   [
     {
-      "title": "Número de homicídios de jovens de 15 a 29 anos (ano)",
-      "assetData": "assets/jsons/data/homicj/homicj-niv-brasil.json",
+      "title": "Número de homicídios (1980 - 2022)",
+      "assetData": "assets/jsons/data/homic/homic-niv-estados.json",
       "colSize": 4,
-      "componentName": "LineChart"
+      "componentName": "PieChart"
     },
     {
-      "title": "Número de homicídios de jovens de 15 a 29 anos do sexo feminino (ano)",
-      "assetData": "assets/jsons/data/homicfj/homicfj-niv-brasil.json",
+      "title": "Número de homicídios do sexo masculino (1980 - 2022)",
+      "assetData": "assets/jsons/data/homicm/homicm-niv-estados.json",
       "colSize": 4,
-      "componentName": "LineChart"
+      "componentName": "PieChart"
     },
     {
-      "title": "Número de homicídios de jovens de 15 a 29 anos do sexo masculino (ano)",
-      "assetData": "assets/jsons/data/homicmj/homicmj-niv-brasil.json",
+      "title": "Número de homicídios do sexo feminino (1980 - 2022)",
+      "assetData": "assets/jsons/data/homicf/homicf-niv-estados.json",
       "colSize": 4,
-      "componentName": "LineChart"
+      "componentName": "PieChart"
+    }
+  ],
+  [
+    {
+      "title": "Número de homicídios de jovens de 15 a 29 anos (1980 - 2022)",
+      "assetData": "assets/jsons/data/homicj/homicj-niv-estados.json",
+      "colSize": 4,
+      "componentName": "PieChart"
+    },
+    {
+      "title": "Número de homicídios de jovens de 15 a 29 anos do sexo masculino (1980 - 2022)",
+      "assetData": "assets/jsons/data/homicmj/homicmj-niv-estados.json",
+      "colSize": 4,
+      "componentName": "PieChart"
+    },
+    {
+      "title": "Número de homicídios de jovens de 15 a 29 anos do sexo feminino (1980 - 2022)",
+      "assetData": "assets/jsons/data/homicfj/homicfj-niv-estados.json",
+      "colSize": 4,
+      "componentName": "PieChart"
     }
   ]
 ]

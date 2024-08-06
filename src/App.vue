@@ -64,7 +64,7 @@ function toggleLeftDrawer() {
 }
 
 const links1 = ref([
-  { icon: 'mdi-home', text: 'Pagina Inicial' },
+  { icon: 'mdi-skull-outline', text: 'BI da Morte' },
   { icon: 'mdi-account-tie', text: 'Mandatos Presidenciais' },
   { icon: 'mdi-map', text: 'Demográfico' }
 ])
